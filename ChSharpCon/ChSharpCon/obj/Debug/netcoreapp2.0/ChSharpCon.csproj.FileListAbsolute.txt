@@ -1,0 +1,11 @@
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\bin\Debug\netcoreapp2.0\ChSharpCon.deps.json
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\bin\Debug\netcoreapp2.0\ChSharpCon.runtimeconfig.json
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\bin\Debug\netcoreapp2.0\ChSharpCon.runtimeconfig.dev.json
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\bin\Debug\netcoreapp2.0\ChSharpCon.dll
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\bin\Debug\netcoreapp2.0\ChSharpCon.pdb
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\obj\Debug\netcoreapp2.0\ChSharpCon.csprojResolveAssemblyReference.cache
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\obj\Debug\netcoreapp2.0\ChSharpCon.csproj.CoreCompileInputs.cache
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\obj\Debug\netcoreapp2.0\ChSharpCon.AssemblyInfoInputs.cache
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\obj\Debug\netcoreapp2.0\ChSharpCon.AssemblyInfo.cs
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\obj\Debug\netcoreapp2.0\ChSharpCon.dll
+C:\Users\Moderate School Sec\Source\Repos\ChSharpCon\ChSharpCon\obj\Debug\netcoreapp2.0\ChSharpCon.pdb
